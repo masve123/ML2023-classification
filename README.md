@@ -13,7 +13,7 @@ This project involves the binary classification of images to distinguish between
 The `.ipynb` file is saved as a pdf. If for some reason the notebook needs to be run separately, this is the procedure:
 
 #### Using Google Colab
-1. Upload the Muffin_vs_Chihuahua_Classification.ipynb file to your Google Drive.
+1. Upload the `Muffin_vs_Chihuahua_Classification.ipynb` file to your Google Drive.
 
 2. Open the notebook with Google Colab by right-clicking the file in Google Drive and selecting "Open with > Google Colaboratory".
 
